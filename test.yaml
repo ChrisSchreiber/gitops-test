@@ -1,6 +1,6 @@
 one:
-  red: "v0.0.1"
-  green: "v0.0.1"
+  green: v0.0.1
+  red: v2.0.0
 two:
-  blue: "v0.0.1"
-  yellow: "v0.0.1"
+  blue: v0.0.1
+  yellow: v0.0.1
